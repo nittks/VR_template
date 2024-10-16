@@ -19,11 +19,11 @@ Library: H:\unity\VR_TableTennis\VR_template\Temp\BurstOutput\tempburstlibs\arme
 --assembly-defines=Unity.VisualScripting.Core;
 --assembly-defines=Unity.VisualScripting.Flow;
 --assembly-defines=Unity.RenderPipeline.Universal.ShaderLibrary;
---assembly-defines=Unity.XR.CoreUtils;
 --assembly-defines=Unity.Timeline;
---assembly-defines=Unity.InputSystem.ForUI;
 --assembly-defines=Unity.InputSystem;
+--assembly-defines=Unity.InputSystem.ForUI;
 --assembly-defines=Unity.XR.Oculus;
+--assembly-defines=Unity.XR.CoreUtils;
 --assembly-defines=Unity.RenderPipelines.Core.ShaderLibrary;
 --assembly-defines=Unity.XR.Interaction.Toolkit.Samples.StarterAssets;
 --assembly-defines=Unity.Mathematics;
@@ -83,11 +83,11 @@ Library: H:\unity\VR_TableTennis\VR_template\Temp\BurstOutput\tempburstlibs\arme
 --assembly-defines=Unity.VisualScripting.Core;
 --assembly-defines=Unity.VisualScripting.Flow;
 --assembly-defines=Unity.RenderPipeline.Universal.ShaderLibrary;
---assembly-defines=Unity.XR.CoreUtils;
 --assembly-defines=Unity.Timeline;
---assembly-defines=Unity.InputSystem.ForUI;
 --assembly-defines=Unity.InputSystem;
+--assembly-defines=Unity.InputSystem.ForUI;
 --assembly-defines=Unity.XR.Oculus;
+--assembly-defines=Unity.XR.CoreUtils;
 --assembly-defines=Unity.RenderPipelines.Core.ShaderLibrary;
 --assembly-defines=Unity.XR.Interaction.Toolkit.Samples.StarterAssets;
 --assembly-defines=Unity.Mathematics;
